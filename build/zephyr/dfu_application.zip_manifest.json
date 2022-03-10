@@ -1,0 +1,16 @@
+{
+    "format-version": 0,
+    "time": 1646935178,
+    "files": [
+        {
+            "load_address": 49664,
+            "version_MCUBOOT": "0.0.0+0",
+            "type": "application",
+            "board": "nrf52dk_nrf52832",
+            "soc": "nRF52832_QFAA",
+            "size": 32708,
+            "file": "app_update.bin",
+            "modtime": 1646935178
+        }
+    ]
+}

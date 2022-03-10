@@ -1,0 +1,12 @@
+&flash0 {
+	partitions {
+		storage_partition: partition@7a000 {
+			label = "storage";
+			reg = <0x7a000 0x4000>;
+		};
+		user_partition: partition@7e000 {
+			label = "user_storage";
+			reg = <0x7e000 0x2000>;
+		};
+	};
+};

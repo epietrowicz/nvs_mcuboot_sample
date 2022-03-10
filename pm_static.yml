@@ -1,0 +1,16 @@
+storage:
+  address: 0x7a000
+  size: 0x6000
+  end_address: 0x80000
+  placement:
+    before: 
+    - user_storage
+  region: flash_primary
+user_storage:
+  address: 0x80000
+  size: 0x2000
+  end_address: 0x82000
+  placement:
+    before:
+    - end
+  region: flash_primary

@@ -1,0 +1,2 @@
+osource "/Users/ericpietrowicz/ncs/hidrate_applications/nvs/boards/shields/*/Kconfig.defconfig"
+osource "/Users/ericpietrowicz/ncs/nrf/boards/shields/*/Kconfig.defconfig"

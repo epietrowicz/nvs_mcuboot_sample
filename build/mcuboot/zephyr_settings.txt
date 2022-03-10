@@ -1,0 +1,3 @@
+"BOARD_ROOT":"/Users/ericpietrowicz/ncs/nrf"
+"DTS_ROOT":"/Users/ericpietrowicz/ncs/nrf"
+"MODULE_EXT_ROOT":"/Users/ericpietrowicz/ncs/nrf"
